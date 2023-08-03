@@ -1,6 +1,10 @@
 # chat_app
 
 A new Flutter project.
+I used
+Dart 
+Flutter
+FireBase
 
 ## Getting Started
 
