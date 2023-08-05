@@ -1,10 +1,11 @@
 # chat_app
 
 A new Flutter project.
-I used
-Dart 
-Flutter
-FireBase
+##languages used
+-Dart 
+-Flutter
+##DataBase used
+-FireBase
 
 ## Getting Started
 
